@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GangOfFour.AbstractFactory/bin/Debug/net8.0
+/GangOfFour.AbstractFactory/obj/Debug/net8.0
+/GangOfFour.AbstractFactory/obj
+/GangOfFour.Builder/bin/Debug/net8.0
+/GangOfFour.Builder/obj
